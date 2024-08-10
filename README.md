@@ -66,4 +66,4 @@ This project demonstrates a potential security vulnerability within Chrome exten
 - Regularly clean cookies and cache.
 - Enable two-factor authentication.
 - Ensure the HttpOnly and Secure attributes are set for cookies.
-```
+
