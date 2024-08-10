@@ -67,3 +67,7 @@ This project demonstrates a potential security vulnerability within Chrome exten
 - Enable two-factor authentication.
 - Ensure the HttpOnly and Secure attributes are set for cookies.
 
+# Conclusion
+
+The purpose of this project is to educate and raise awareness about online security, especially regarding potential security issues with Chrome extensions. By showing how this type of attack works, it highlights the importance of taking appropriate security measures to prevent this type of attack.
+
